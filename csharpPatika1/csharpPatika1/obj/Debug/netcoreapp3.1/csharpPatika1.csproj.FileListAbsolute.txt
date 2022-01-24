@@ -1,0 +1,13 @@
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\obj\Debug\netcoreapp3.1\csharpPatika1.csprojAssemblyReference.cache
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\obj\Debug\netcoreapp3.1\csharpPatika1.AssemblyInfoInputs.cache
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\obj\Debug\netcoreapp3.1\csharpPatika1.AssemblyInfo.cs
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\obj\Debug\netcoreapp3.1\csharpPatika1.csproj.CoreCompileInputs.cache
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\bin\Debug\netcoreapp3.1\csharpPatika1.exe
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\bin\Debug\netcoreapp3.1\csharpPatika1.deps.json
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\bin\Debug\netcoreapp3.1\csharpPatika1.runtimeconfig.json
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\bin\Debug\netcoreapp3.1\csharpPatika1.runtimeconfig.dev.json
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\bin\Debug\netcoreapp3.1\csharpPatika1.dll
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\bin\Debug\netcoreapp3.1\csharpPatika1.pdb
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\obj\Debug\netcoreapp3.1\csharpPatika1.dll
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\obj\Debug\netcoreapp3.1\csharpPatika1.pdb
+C:\Users\iremh\source\repos\csharpPatika1\csharpPatika1\obj\Debug\netcoreapp3.1\csharpPatika1.genruntimeconfig.cache
